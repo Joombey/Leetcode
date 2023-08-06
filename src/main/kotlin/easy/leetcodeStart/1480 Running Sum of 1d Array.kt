@@ -1,4 +1,4 @@
-package easy
+package easy.leetcodeStart
 
 fun main(){  }
 
